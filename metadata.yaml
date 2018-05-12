@@ -1,0 +1,43 @@
+_repo: By-What-Authority-_19697
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Benson, Robert Hugh
+    alias: Benson, R. H. (Robert Hugh)
+    birthdate: 1871
+    deathdate: 1914
+    gutenberg_agent_id: '4052'
+    url: http://www.gutenberg.org/2009/agents/4052
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Hugh_Benson
+description: For Great Keynes, as for most English villages and towns at this time,
+  secular affairs were so deeply and intricately interwoven with ecclesiastical matters
+  that none dared decide on the one question without considering its relation to the
+  other; and ecclesiastical affairs, too, touched them more personally than any other,
+  since every religious change scored a record of itself presently within the church
+  that was as familiar to them as their own cottages. On none had the religious changes
+  fallen with more severity than on the Maxwell family that lived in the Hall, at
+  the upper and southern end of the green. Old Sir Nicholas, though his convictions
+  had survived the tempest of unrest and trouble that had swept over England, and
+  he had remained a convinced and a stubborn Catholic, yet his spiritual system was
+  sore and inflamed within him. To his simple and obstinate soul it was an irritating
+  puzzle as to how any man could pass from the old to a new faith, and he had been
+  known to lay his whip across the back of a servant who had professed a desire to
+  try the new religion. Although written over a hundred years ago at the time of the
+  Elizabethan persecution of "papists", it rings true even today where it is considered
+  "with it" to denounce the Catholic Church.
+gutenberg_issued: '2006-11-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19697'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Great Britain -- History -- Elizabeth, 1558-1603 -- Fiction'
+title: By What Authority?
+url: http://www.gutenberg.org/ebooks/19697
